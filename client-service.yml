@@ -1,5 +1,5 @@
 app:
-  service-name: client-service-2
+  service-name: client-service-3
 spring:
   cloud:
     config:
