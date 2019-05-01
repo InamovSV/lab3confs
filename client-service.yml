@@ -1,5 +1,5 @@
 app:
-  service-name: client-service-3
+  service-name: client-service-1
 
 eureka:
   instance:
