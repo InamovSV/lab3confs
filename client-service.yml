@@ -15,7 +15,8 @@ eureka:
   client:
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://localhost:8010/eureka/
+      defaultZone: http://server:8010/eureka/
+      #defaultZone: http://localhost:8010/eureka/
 #    healthcheck:
 #     enabled: true
 server:
