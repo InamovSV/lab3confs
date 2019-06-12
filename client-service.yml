@@ -1,4 +1,10 @@
 app:
+  createEmployeetopic: emptop
+  updateEmployeetopic: updemptop
+  createTaskTopic: tasktop
+  updateTaskTopic: updtasktop
+  createLogTopic: createLog
+  updLogTopic: udpLog
   service-name: client-service-2
 
 eureka:
